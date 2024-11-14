@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "214872659493",
+    "project_id": "soccer-dash-champion-runner",
+    "storage_bucket": "soccer-dash-champion-runner.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:214872659493:android:338170f245303129e951cc",
+        "android_client_info": {
+          "package_name": "com.ivasloft.soccerdash.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEcUSxlmCaXjzo1Lrt__7Xj9Xyxkqg5IE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
